@@ -17,3 +17,9 @@ Shell script verifies input, checks directory permissions, retrieves and sorts f
   
 ### System Calls -
 The Unix File Sorter script leverages system calls to efficiently interact with the operating system and manage files. System calls are used to verify input, check directory permissions, retrieve file metadata, and perform sorting operations, enhancing the script's performance and reliability.
+
+#### Commands to run 
+- use a linux environment
+- go to the directory where you want sort the files.
+- compile it with the command -> cc filename.c (here file_sorter.c)
+- when compiled with no errors, run using -> ./a.out
